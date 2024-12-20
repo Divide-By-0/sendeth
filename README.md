@@ -66,6 +66,6 @@ and set the publish directory to out/.
 
 In the next month or two, we intend to prioritize:
 
-- **KYC-Free Onboarding and Offboarding**: We intend to build a native integration with [ZK P2P](https://zkp2p.xyz/), which uses the same base email proving technology ([prove.email](https://prove.email)) to on and offramp via Venmo.
+- **KYC-Free Onboarding and Offboarding**: We intend to build a native integration with [ZK P2P](https://zkp2p.xyz/), which uses the same base email proving technology ([zk.email](https://zk.email)) to on and offramp via Venmo.
 - **Bulk Sending**: We intend to include bulk-sending a list of amounts to a list of email addresses, in one email or transaction.
 - **2FA Ability**: By adding ERC 1271 signatures, enable the ability to use your email wallet as a 2FA method for any Gnosis Safe.

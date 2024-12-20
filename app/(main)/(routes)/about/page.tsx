@@ -76,11 +76,7 @@ const AboutPage = () => {
         </h1>
         <h3 className="text-center text-muted-foreground">
           Secured by zero knowledge proofs on Ethereum. Powered by{" "}
-          <a
-            href="https://prove.email"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="https://zk.email" target="_blank" rel="noopener noreferrer">
             <u>ZK Email</u>
           </a>
           . Decentralized and private by default.
@@ -223,7 +219,7 @@ const AboutPage = () => {
             Working on and auditing email gated OAuth for easy wallet login,
             account recovery for AA wallets, and supporting more{" "}
             <a
-              href="https://prove.email"
+              href="https://zm.email"
               target="_blank"
               rel="noopener noreferrer"
             >

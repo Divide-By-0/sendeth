@@ -17,7 +17,7 @@ const NewBlogPostHeader = () => {
         email signer!
       </p>
       <a
-        href={`http://prove.email/blog/2fa`}
+        href={`http://zk.email/blog/2fa`}
         target="_blank"
         className="flex items-center font-bold text-slate-800"
       >

@@ -66,10 +66,7 @@ const YouOwnMoneySection = () => {
         >
           We can&apos;t take your funds, they can only be{" "}
           <u>
-            <a
-              href="https://prove.email"
-              style={{ textDecoration: "underline" }}
-            >
+            <a href="https://zk.email" style={{ textDecoration: "underline" }}>
               authorized by your email
             </a>
           </u>
