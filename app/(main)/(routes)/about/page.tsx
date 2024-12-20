@@ -219,7 +219,7 @@ const AboutPage = () => {
             Working on and auditing email gated OAuth for easy wallet login,
             account recovery for AA wallets, and supporting more{" "}
             <a
-              href="https://zm.email"
+              href="https://zk.email"
               target="_blank"
               rel="noopener noreferrer"
             >
